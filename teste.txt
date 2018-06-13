@@ -3,4 +3,6 @@ fazendo outro teste
 whatt happendd
 Inclusão de alterações via repositorio remoto
 Inclusão de nova linha via repositorio remoto
+edi��o no branch local
+inserindo nova linha no local
 
